@@ -14,7 +14,7 @@ In this tutorial I learnt how to make a fully functional game of Nokia 3310 Snak
 * forEach
 * setting time intervals and countdowns
 
-### TO-DO
+## TO-DO
 
 - [ ] Add styling
 - [ ] Deploy to Netlify
