@@ -1,10 +1,10 @@
 # Nokia3310-Snake
 
-I coded along with [Ania Kubów](https://github.com/kubowania) on a vanilla JavaScript Snake game.
+I coded along with [Ania Kubów](https://github.com/kubowania) on a vanilla JavaScript grid-based Snake game.
 
 For the full walkthrough to coding the game, please visit [here](https://www.youtube.com/watch?v=GWPGz9hrVMk)
 
-A vanilla JavaScript grid-based game | In this tutorial I learnt how to make a fully functional game of Nokia 3310 Snake. I covered the following:
+In this tutorial I learnt how to make a fully functional game of Nokia 3310 Snake. I covered the following:
 
 * project set up
 * linking your JavaScript and CSS files to your HTML file
