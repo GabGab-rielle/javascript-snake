@@ -1,6 +1,10 @@
 # Nokia3310-Snake
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a0b8f0da-f2f6-4f98-bb7e-9d8c72a9e457/deploy-status)](https://app.netlify.com/sites/gab-snake-game/deploys)
+
 I coded along with [Ania Kubów](https://github.com/kubowania) on a vanilla JavaScript grid-based Snake game.
+
+Check out my project [here](https://gab-snake-game.netlify.app/)
 
 For the full walkthrough to coding the game, please visit [here](https://www.youtube.com/watch?v=GWPGz9hrVMk)
 
@@ -17,7 +21,7 @@ In this tutorial I learnt how to make a fully functional game of Nokia 3310 Snak
 ## TO-DO
 
 - [ ] Add styling
-- [ ] Deploy to Netlify
+- [x] Deploy to Netlify
 
 ### MIT Licence
 
