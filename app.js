@@ -115,8 +115,9 @@ document.addEventListener("DOMContentLoaded", () => {
    */
   function movement(e) {
     // remove snake from board between each move to that the snake doesn't reappear
-    // in multiple places
-    squares[currIndex].classList.remove("snake");
+    // in multiple places.
+    // ! this created a bug mentioned in Ania's github repo. Suggested fix by removal
+    // squares[currIndex].classList.remove("snake");
 
     // get the keycode for the arrow keys and change letter to lowercase
     arrow = e.keyCode;
