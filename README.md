@@ -6,7 +6,7 @@ I coded along with [Ania Kubów](https://github.com/kubowania) on a vanilla Java
 
 Check out my project [here](https://gab-snake-game.netlify.app/)
 
-For the full walkthrough to coding the game, please visit [here](https://www.youtube.com/watch?v=GWPGz9hrVMk)
+For the full walkthrough to coding the game, please visit [here](https://www.youtube.com/watch?v=rui2tRRVtc0)
 
 In this tutorial I learnt how to make a fully functional game of Nokia 3310 Snake. I covered the following:
 
